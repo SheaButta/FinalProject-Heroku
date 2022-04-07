@@ -1,1 +1,1 @@
-web: gunicorn pet_pals.app:server
+web: gunicorn HousingMarket.app:server
